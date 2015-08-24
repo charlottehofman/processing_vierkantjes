@@ -1,0 +1,969 @@
+PImage bg;
+PImage roodafb01;
+PImage roodafb02;
+
+PImage roodafb03;
+PImage roodafb04;
+PImage roodafb05;
+PImage roodafb06;
+PImage roodafb07;
+
+PImage roodafb08;
+PImage roodafb09;
+PImage roodafb10;
+PImage roodafb11;
+PImage roodafb12;
+
+PImage roodafb13;
+PImage roodafb14;
+
+PImage roodafb15;
+PImage roodafb16;
+PImage roodafb17;
+PImage roodafb18;
+PImage roodafb19;
+
+PImage roodafb20;
+PImage roodafb21;
+PImage roodafb22;
+PImage roodafb23;
+PImage roodafb24;
+PImage roodafb25;
+
+PImage roodafb26;
+PImage roodafb27;
+PImage roodafb28;
+PImage roodafb29;
+PImage roodafb30;
+
+PImage geelafb01;
+PImage geelafb02;
+PImage geelafb03;
+PImage geelafb04;
+PImage geelafb05;
+
+PImage geelafb06;
+PImage geelafb07;
+PImage geelafb08;
+PImage geelafb09;
+PImage geelafb10;
+
+PImage geelafb11;
+PImage geelafb12;
+PImage geelafb13;
+PImage geelafb14;
+PImage geelafb15;
+
+PImage geelafb16;
+PImage geelafb17;
+PImage geelafb18;
+PImage geelafb19;
+PImage geelafb20;
+
+PImage geelafb21;
+PImage geelafb22;
+PImage geelafb23;
+PImage geelafb24;
+PImage geelafb25;
+
+PImage geelafb26;
+PImage geelafb27;
+PImage geelafb28;
+PImage geelafb29;
+PImage geelafb30;
+
+PImage groenafb01;
+PImage groenafb02;
+PImage groenafb03;
+PImage groenafb04;
+PImage groenafb05;
+
+PImage groenafb06;
+PImage groenafb07;
+PImage groenafb08;
+PImage groenafb09;
+PImage groenafb10;
+
+PImage groenafb11;
+PImage groenafb12;
+PImage groenafb13;
+PImage groenafb14;
+PImage groenafb15;
+
+PImage groenafb16;
+PImage groenafb17;
+PImage groenafb18;
+PImage groenafb19;
+PImage groenafb20;
+
+PImage groenafb21;
+PImage groenafb22;
+PImage groenafb23;
+PImage groenafb24;
+PImage groenafb25;
+
+PImage groenafb26;
+PImage groenafb27;
+PImage groenafb28;
+PImage groenafb29;
+PImage groenafb30;
+
+//----------------------
+
+PImage roodafb31;
+PImage roodafb32;
+PImage roodafb33;
+PImage roodafb34;
+PImage roodafb35;
+
+PImage roodafb36;
+PImage roodafb37;
+PImage roodafb38;
+PImage roodafb39;
+PImage roodafb40;
+
+PImage roodafb41;
+PImage roodafb42;
+PImage roodafb43;
+PImage roodafb44;
+PImage roodafb45;
+
+PImage roodafb46;
+
+PImage groenafb31;
+PImage groenafb32;
+PImage groenafb33;
+PImage groenafb34;
+PImage groenafb35;
+
+PImage groenafb36;
+PImage groenafb37;
+PImage groenafb38;
+PImage groenafb39;
+PImage groenafb40;
+
+PImage groenafb41;
+PImage groenafb42;
+PImage groenafb43;
+PImage groenafb44;
+PImage groenafb45;
+
+PImage groenafb46;
+PImage groenafb47;
+PImage groenafb48;
+PImage groenafb49;
+
+PImage geelafb31;
+PImage geelafb32;
+PImage geelafb33;
+PImage geelafb34;
+PImage geelafb35;
+
+PImage geelafb36;
+PImage geelafb37;
+PImage geelafb38;
+PImage geelafb39;
+PImage geelafb40;
+
+PImage geelafb41;
+PImage geelafb42;
+PImage geelafb43;
+PImage geelafb44;
+PImage geelafb45;
+
+PImage geelafb46;
+PImage geelafb47;
+PImage geelafb48;
+PImage geelafb49;
+PImage geelafb50;
+PImage geelafb51;
+PImage geelafb52;
+
+//----------------------
+
+PImage geelafb53;
+PImage geelafb54;
+PImage geelafb55;
+PImage geelafb56;
+PImage geelafb57;
+
+PImage geelafb58;
+PImage geelafb59;
+PImage geelafb60;
+PImage geelafb61;
+PImage geelafb62;
+
+PImage geelafb63;
+PImage geelafb64;
+PImage geelafb65;
+PImage geelafb66;
+PImage geelafb67;
+
+PImage geelafb68;
+PImage geelafb69;
+PImage geelafb70;
+PImage geelafb71;
+PImage geelafb72;
+
+PImage geelafb73;
+PImage geelafb74;
+PImage geelafb75;
+PImage geelafb76;
+PImage geelafb77;
+
+PImage geelafb78;
+PImage geelafb79;
+PImage geelafb80;
+PImage geelafb81;
+PImage geelafb82;
+
+PImage geelafb83;
+PImage geelafb84;
+PImage geelafb85;
+PImage geelafb86;
+PImage geelafb87;
+
+PImage roodafb47;
+PImage roodafb48;
+PImage roodafb49;
+PImage roodafb50;
+PImage roodafb51;
+
+PImage roodafb52;
+PImage roodafb53;
+PImage roodafb54;
+PImage roodafb55;
+PImage roodafb56;
+
+PImage roodafb57;
+PImage roodafb58;
+PImage roodafb59;
+PImage roodafb60;
+PImage roodafb61;
+
+PImage roodafb62;
+PImage roodafb63;
+PImage roodafb64;
+PImage roodafb65;
+PImage roodafb66;
+
+PImage roodafb67;
+PImage roodafb68;
+PImage roodafb69;
+PImage roodafb70;
+PImage roodafb71;
+
+PImage roodafb72;
+PImage roodafb73;
+PImage roodafb74;
+PImage roodafb75;
+PImage roodafb76;
+
+PImage roodafb77;
+PImage roodafb78;
+PImage roodafb79;
+PImage roodafb80;
+PImage roodafb81;
+
+PImage groenafb50;
+PImage groenafb51;
+PImage groenafb52;
+PImage groenafb53;
+PImage groenafb54;
+
+//
+
+PImage groenafb55;
+PImage groenafb56;
+PImage groenafb57;
+PImage groenafb58;
+PImage groenafb59;
+
+PImage groenafb60;
+PImage groenafb61;
+PImage groenafb62;
+PImage groenafb63;
+PImage groenafb64;
+
+PImage groenafb65;
+PImage groenafb66;
+PImage groenafb67;
+PImage groenafb68;
+PImage groenafb69;
+
+PImage groenafb70;
+PImage groenafb71;
+PImage groenafb72;
+PImage groenafb73;
+PImage groenafb74;
+
+PImage groenafb75;
+PImage groenafb76;
+PImage groenafb77;
+PImage groenafb78;
+PImage groenafb79;
+
+PImage groenafb80;
+PImage groenafb81;
+PImage groenafb82;
+PImage groenafb83;
+PImage groenafb84;
+
+
+
+
+
+
+
+
+void setup() {
+  
+  size (655, 900);
+  bg = loadImage("posterJA.png");
+  roodafb01 = loadImage("image_001.png");
+  roodafb02 = loadImage("image_002.png");
+  
+  roodafb03 = loadImage("image_003.png");
+  roodafb04 = loadImage("image_004.png");
+  roodafb05 = loadImage("image_005.png");
+  roodafb06 = loadImage("image_006.png");
+  roodafb07 = loadImage("image_007.png");
+  
+  roodafb08 = loadImage("image_008.png");
+  roodafb09 = loadImage("image_009.png");
+  roodafb10 = loadImage("image_010.png");
+  roodafb11 = loadImage("image_011.png");
+  roodafb12 = loadImage("image_012.png");
+  
+   roodafb13 = loadImage("image_013.png");
+  roodafb14 = loadImage("image_014.png");
+  
+   roodafb15 = loadImage("image_015.png");
+  roodafb16 = loadImage("image_016.png");
+  roodafb17 = loadImage("image_017.png");
+  roodafb18 = loadImage("image_018.png");
+  roodafb19 = loadImage("image_019.png");
+  
+  roodafb20 = loadImage("image_020.png");
+  roodafb21 = loadImage("image_021.png");
+  roodafb22 = loadImage("image_022.png");
+  roodafb23 = loadImage("image_023.png");
+  roodafb24 = loadImage("image_024.png");
+  roodafb25 = loadImage("image_025.png");
+  
+   roodafb26 = loadImage("image_026.png");
+  roodafb27 = loadImage("image_027.png");
+  roodafb28 = loadImage("image_028.png");
+  roodafb29 = loadImage("image_029.png");
+  roodafb30 = loadImage("image_030.png");
+  
+  //-----------------
+  
+  geelafb01 = loadImage("003.PNG");
+  geelafb02 = loadImage("004.PNG");
+  geelafb03 = loadImage("005.PNG");
+  geelafb04 = loadImage("006.PNG");
+  geelafb05 = loadImage("007.PNG");
+  
+  geelafb06 = loadImage("008.PNG");
+  geelafb07 = loadImage("009.PNG");
+  geelafb08 = loadImage("010.PNG");
+  geelafb09 = loadImage("011.PNG");
+  geelafb10 = loadImage("012.PNG");
+  
+  geelafb11 = loadImage("013.PNG");
+  geelafb12 = loadImage("014.PNG");
+  geelafb13 = loadImage("015.PNG");
+  geelafb14 = loadImage("016.PNG");
+  geelafb15 = loadImage("017.PNG");
+  
+  geelafb16 = loadImage("018.PNG");
+  geelafb17 = loadImage("019.PNG");
+  geelafb18 = loadImage("020.PNG");
+  geelafb19 = loadImage("021.PNG");
+  geelafb20 = loadImage("022.PNG");
+
+ geelafb21 = loadImage("023.PNG");
+  geelafb22 = loadImage("024.PNG");
+  geelafb23 = loadImage("025.PNG");
+  geelafb24 = loadImage("026.PNG");
+  geelafb25 = loadImage("027.PNG");
+
+ geelafb26 = loadImage("028.PNG");
+  geelafb27 = loadImage("029.PNG");
+  geelafb28 = loadImage("030.PNG");
+  geelafb29 = loadImage("031.PNG");
+  geelafb30 = loadImage("032.PNG");
+  
+  //------------
+  
+   groenafb01 = loadImage("greenfoto (1).png");
+   groenafb02 = loadImage("greenfoto (2).png");
+   groenafb03 = loadImage("greenfoto (3).png");
+   groenafb04 = loadImage("greenfoto (4).png");
+   groenafb05 = loadImage("greenfoto (5).png");
+  
+   groenafb06 = loadImage("greenfoto (6).png");
+   groenafb07 = loadImage("greenfoto (7).png");
+   groenafb08 = loadImage("greenfoto (8).png");
+   groenafb09 = loadImage("greenfoto (9).png");
+   groenafb10 = loadImage("greenfoto (10).png"); 
+   
+      groenafb11 = loadImage("greenfoto (11).png");
+   groenafb12 = loadImage("greenfoto (12).png");
+   groenafb13 = loadImage("greenfoto (13).png");
+   groenafb14 = loadImage("greenfoto (14).png");
+   groenafb15 = loadImage("greenfoto (15).png"); 
+   
+     groenafb16 = loadImage("greenfoto (16).png");
+   groenafb17 = loadImage("greenfoto (17).png");
+   groenafb18 = loadImage("greenfoto (18).png");
+   groenafb19 = loadImage("greenfoto (19).png");
+   groenafb20 = loadImage("greenfoto (20).png"); 
+   
+    groenafb21 = loadImage("greenfoto (21).png");
+   groenafb22 = loadImage("greenfoto (22).png");
+   groenafb23 = loadImage("greenfoto (23).png");
+   groenafb24 = loadImage("greenfoto (24).png");
+   groenafb25 = loadImage("greenfoto (25).png"); 
+   
+   groenafb26 = loadImage("greenfoto (26).png");
+   groenafb27 = loadImage("greenfoto (27).png");
+   groenafb28 = loadImage("greenfoto (28).png");
+   groenafb29 = loadImage("greenfoto (29).png");
+   groenafb30 = loadImage("greenfoto (30).png"); 
+   
+   //----------------------
+   
+ roodafb31 = loadImage("face (15).png");
+  roodafb32 = loadImage("face (11).png");
+  roodafb33 = loadImage("face (12).png");
+  roodafb34 = loadImage("face (13).png");
+  roodafb35 = loadImage("face (14).png");
+  
+  roodafb31 = loadImage("face (16).png");
+  roodafb32 = loadImage("face (17).png");
+  roodafb33 = loadImage("face (18).png");
+  roodafb34 = loadImage("face (19).png");
+  roodafb35 = loadImage("face (20).png");
+  
+  roodafb36 = loadImage("face (21).png");
+  roodafb37 = loadImage("face (22).png");
+  roodafb38 = loadImage("face (23).png");
+  roodafb39 = loadImage("face (24).png");
+  roodafb40 = loadImage("face (25).png");
+  
+  roodafb41 = loadImage("face (26).png");
+  roodafb42 = loadImage("face (27).png");
+  roodafb43 = loadImage("face (28).png");
+  roodafb44 = loadImage("face (29).png");
+  roodafb45 = loadImage("face (30).png");
+   roodafb46 = loadImage("face (31).png");
+   
+    groenafb31 = loadImage("gezichtgroen (1).png");
+   groenafb32 = loadImage("gezichtgroen (2).png");
+   groenafb33 = loadImage("gezichtgroen (3).png");
+   groenafb34 = loadImage("gezichtgroen (4).png");
+   groenafb35 = loadImage("gezichtgroen (5).png"); 
+   
+   groenafb36 = loadImage("gezichtgroen (6).png");
+   groenafb37 = loadImage("gezichtgroen (7).png");
+   groenafb38 = loadImage("gezichtgroen (8).png");
+   groenafb39 = loadImage("gezichtgroen (9).png");
+   groenafb40 = loadImage("gezichtgroen (10).png"); 
+   
+   groenafb41 = loadImage("gezichtgroen (11).png");
+   groenafb42 = loadImage("gezichtgroen (12).png");
+   groenafb43 = loadImage("gezichtgroen (13).png");
+   groenafb44 = loadImage("gezichtgroen (14).png"); 
+    groenafb45 = loadImage("gezichtgroen (15).png"); 
+    
+    groenafb46 = loadImage("gezichtgroen (16).png");
+   groenafb47 = loadImage("gezichtgroen (17).png");
+   groenafb48 = loadImage("gezichtgroen (18).png"); 
+    groenafb49 = loadImage("gezichtgroen (19).png");
+    
+    geelafb31 = loadImage("gezichtgeel (1).png");
+   geelafb32 = loadImage("gezichtgeel (2).png");
+   geelafb33 = loadImage("gezichtgeel (3).png"); 
+    geelafb34 = loadImage("gezichtgeel (4).png"); 
+       geelafb35 = loadImage("gezichtgeel (5).png"); 
+       
+         geelafb36 = loadImage("gezichtgeel (6).png");
+   geelafb37 = loadImage("gezichtgeel (7).png");
+   geelafb38 = loadImage("gezichtgeel (8).png"); 
+    geelafb39 = loadImage("gezichtgeel (9).png"); 
+       geelafb40 = loadImage("gezichtgeel (11).png"); 
+       
+       geelafb41 = loadImage("gezichtgeel (12).png");
+   geelafb42 = loadImage("gezichtgeel (13).png");
+   geelafb43 = loadImage("gezichtgeel (14).png"); 
+    geelafb44 = loadImage("gezichtgeel (15).png"); 
+       geelafb45 = loadImage("gezichtgeel (16).png"); 
+
+geelafb46 = loadImage("gezichtgeel (17).png");
+   geelafb47 = loadImage("gezichtgeel (18).png");
+   geelafb48 = loadImage("gezichtgeel (19).png"); 
+    geelafb49 = loadImage("gezichtgeel (20).png"); 
+       geelafb50 = loadImage("gezichtgeel (21).png"); 
+
+geelafb51 = loadImage("gezichtgeel (22).png");
+   geelafb52 = loadImage("gezichtgeel (23).png");
+   
+   //NIEUWE RIJ
+   
+   geelafb53 = loadImage("geelclipart (1).png");
+   geelafb54 = loadImage("geelclipart (2).png");
+   geelafb55 = loadImage("geelclipart (3).png"); 
+    geelafb56 = loadImage("geelclipart (4).png"); 
+       geelafb57 = loadImage("geelclipart (5).png");
+       
+
+geelafb58 = loadImage("geelclipart (6).png");
+geelafb59 = loadImage("geelclipart (7).png");
+geelafb60 = loadImage("geelclipart (8).png"); 
+geelafb61 = loadImage("geelclipart (9).png"); 
+geelafb62 = loadImage("geelclipart (10).png");
+
+geelafb63 = loadImage("geelclipart (11).png");
+geelafb64 = loadImage("geelclipart (12).png");
+geelafb65 = loadImage("geelclipart (13).png"); 
+geelafb66 = loadImage("geelclipart (14).png"); 
+geelafb67 = loadImage("geelclipart (15).png");
+
+geelafb68 = loadImage("geelclipart (16).png");
+geelafb69 = loadImage("geelclipart (17).png");
+geelafb70 = loadImage("geelclipart (18).png"); 
+geelafb71 = loadImage("geelclipart (19).png"); 
+geelafb72 = loadImage("geelclipart (20).png");
+
+geelafb73 = loadImage("geelclipart (21).png");
+geelafb74 = loadImage("geelclipart (22).png");
+geelafb75 = loadImage("geelclipart (23).png"); 
+geelafb76 = loadImage("geelclipart (24).png"); 
+geelafb77 = loadImage("geelclipart (25).png");
+
+geelafb78 = loadImage("geelclipart (26).png");
+geelafb79 = loadImage("geelclipart (27).png");
+geelafb80 = loadImage("geelclipart (28).png"); 
+geelafb81 = loadImage("geelclipart (29).png"); 
+geelafb82 = loadImage("geelclipart (30).png");
+
+geelafb83 = loadImage("geelclipart (31).png");
+geelafb84 = loadImage("geelclipart (32).png");
+geelafb85 = loadImage("geelclipart (33).png"); 
+geelafb86 = loadImage("geelclipart (34).png"); 
+geelafb87 = loadImage("geelclipart (35).png");
+
+roodafb47 = loadImage("roodclipart (1).png");
+roodafb48 = loadImage("roodclipart (2).png");
+roodafb48 = loadImage("roodclipart (3).png");
+roodafb49 = loadImage("roodclipart (4).png");
+roodafb50 = loadImage("roodclipart (5).png");
+roodafb51 = loadImage("roodclipart (6).png");
+
+roodafb52 = loadImage("roodclipart (7).png");
+roodafb53 = loadImage("roodclipart (8).png");
+roodafb54 = loadImage("roodclipart (9).png");
+roodafb55 = loadImage("roodclipart (10).png");
+roodafb56 = loadImage("roodclipart (11).png");
+
+roodafb57 = loadImage("roodclipart (12).png");
+roodafb58 = loadImage("roodclipart (13).png");
+roodafb59 = loadImage("roodclipart (14).png");
+roodafb60 = loadImage("roodclipart (15).png");
+roodafb61 = loadImage("roodclipart (16).png");
+  
+roodafb62 = loadImage("roodclipart (17).png");
+roodafb63 = loadImage("roodclipart (18).png");
+roodafb64 = loadImage("roodclipart (19).png");
+roodafb65 = loadImage("roodclipart (20).png");
+roodafb66 = loadImage("roodclipart (21).png");
+
+roodafb67 = loadImage("roodclipart (22).png");
+roodafb68 = loadImage("roodclipart (23).png");
+roodafb69 = loadImage("roodclipart (24).png");
+roodafb70 = loadImage("roodclipart (25).png");
+roodafb71 = loadImage("roodclipart (26).png");
+  
+roodafb72 = loadImage("roodclipart (27).png");
+roodafb73 = loadImage("roodclipart (28).png");
+roodafb74 = loadImage("roodclipart (29).png");
+roodafb75 = loadImage("roodclipart (30).png");
+roodafb76 = loadImage("roodclipart (31).png");
+  
+roodafb77 = loadImage("roodclipart (32).png");
+roodafb78 = loadImage("roodclipart (33).png");
+roodafb79 = loadImage("roodclipart (34).png");
+roodafb80 = loadImage("roodclipart (35).png");
+roodafb81 = loadImage("roodclipart (36).png");
+  
+groenafb50 = loadImage("groenclipart (1).png");
+groenafb51 = loadImage("groenclipart (2).png");
+groenafb52 = loadImage("groenclipart (3).png"); 
+groenafb53 = loadImage("groenclipart (4).png");
+groenafb54 = loadImage("groenclipart (5).png");
+
+//
+
+groenafb55 = loadImage("groenclipart (6).png");
+groenafb56 = loadImage("groenclipart (7).png");
+groenafb57 = loadImage("groenclipart (37).png"); 
+groenafb58 = loadImage("groenclipart (38).png");
+groenafb59 = loadImage("groenclipart (10).png");
+
+groenafb60 = loadImage("groenclipart (11).png");
+groenafb61 = loadImage("groenclipart (12).png");
+groenafb62 = loadImage("groenclipart (13).png"); 
+groenafb63 = loadImage("groenclipart (14).png");
+groenafb64 = loadImage("groenclipart (15).png");
+
+groenafb65 = loadImage("groenclipart (16).png");
+groenafb66 = loadImage("groenclipart (17).png");
+groenafb67 = loadImage("groenclipart (18).png"); 
+groenafb68 = loadImage("groenclipart (19).png");
+groenafb69 = loadImage("groenclipart (20).png");
+
+groenafb70 = loadImage("groenclipart (21).png");
+groenafb71 = loadImage("groenclipart (22).png");
+groenafb72 = loadImage("groenclipart (23).png"); 
+groenafb73 = loadImage("groenclipart (24).png");
+groenafb74 = loadImage("groenclipart (25).png");
+
+groenafb75 = loadImage("groenclipart (26).png");
+groenafb76 = loadImage("groenclipart (27).png");
+groenafb77 = loadImage("groenclipart (28).png"); 
+groenafb78 = loadImage("groenclipart (29).png");
+groenafb79 = loadImage("groenclipart (30).png");
+
+groenafb80 = loadImage("groenclipart (31).png");
+groenafb81 = loadImage("groenclipart (32).png");
+groenafb82 = loadImage("groenclipart (33).png"); 
+groenafb83 = loadImage("groenclipart (34).png");
+groenafb84 = loadImage("groenclipart (35).png");
+
+  
+  
+
+  
+  
+}
+
+
+void draw() {
+   background(bg);
+  image(roodafb01, 30, 35);
+  image(roodafb02, 70, 35);
+  image(roodafb03, 110, 35);
+  image(roodafb04, 150, 35);
+ image(roodafb05, 190, 35);
+ 
+ image(roodafb06, 30, 75);
+ image(roodafb07, 70, 75);
+  image(roodafb08, 110, 75);
+   image(roodafb09, 150, 75);
+    image(roodafb10, 190, 75);
+    
+      image(roodafb11, 30, 115);
+      image(roodafb12, 70, 115);
+       image(roodafb13, 110, 115);
+      image(roodafb14, 150, 115);
+   image(roodafb15, 190, 115);
+
+  image(roodafb18, 30, 155);
+   image(roodafb19, 70, 155);      
+      image(roodafb20, 110, 155);
+  image(roodafb21, 150, 155);
+    image(roodafb22, 190, 155);
+    
+  image(roodafb23, 30, 195);
+ image(roodafb24, 70, 195);
+  image(roodafb17, 110, 195);
+    image(roodafb16, 150, 195);
+    image(roodafb25, 190, 195);
+    
+    image(roodafb26, 30, 235);
+ image(roodafb27, 70, 235);
+  image(roodafb28, 110, 235);
+    image(roodafb29, 150, 235);
+    image(roodafb30, 190, 235);
+    
+    //ROOD
+    
+      image(geelafb01, 230, 35);
+      image(geelafb02, 270, 35);
+      image(geelafb03, 310, 35);
+      image(geelafb04, 350, 35);
+      image(geelafb05, 390, 35);
+      
+      image(geelafb06, 230, 75);
+      image(geelafb07, 270, 75);
+      image(geelafb08, 310, 75);
+      image(geelafb09, 350, 75);
+      image(geelafb10, 390, 75);
+      
+       image(geelafb11, 230, 115);
+      image(geelafb12, 270, 115);
+      image(geelafb13, 310, 115);
+      image(geelafb14, 350, 115);
+      image(geelafb15, 390, 115);
+      
+         image(geelafb16, 230, 155);
+      image(geelafb17, 270, 155);
+      image(geelafb18, 310, 155);
+      image(geelafb19, 350, 155);
+      image(geelafb20, 390, 155);
+      
+      image(geelafb21, 230, 195);
+      image(geelafb22, 270, 195);
+      image(geelafb23, 310, 195);
+      image(geelafb24, 350, 195);
+      image(geelafb25, 390, 195);
+      
+        image(geelafb26, 230, 235);
+      image(geelafb27, 270, 235);
+      image(geelafb28, 310, 235);
+      image(geelafb29, 350, 235);
+      image(geelafb30, 390, 235);
+      
+        //GROEN
+    
+    
+      image(groenafb01, 430, 35);
+      image(groenafb02, 470, 35);
+      image(groenafb03, 510, 35);
+      image(groenafb04, 550, 35);
+      image(groenafb05, 590, 35);
+      
+      image(groenafb06, 430, 75);
+      image(groenafb07, 470, 75);
+      image(groenafb08, 510, 75);
+      image(groenafb09, 550, 75);
+      image(groenafb10, 590, 75);
+      
+       image(groenafb11, 430, 115);
+      image(groenafb12, 470, 115);
+      image(groenafb13, 510, 115);
+      image(groenafb14, 550, 115);
+      image(groenafb15, 590, 115);
+      
+      image(groenafb16, 430, 155);
+      image(groenafb17, 470, 155);
+      image(groenafb18, 510, 155);
+      image(groenafb19, 550, 155);
+      image(groenafb20, 590, 155);
+      
+      image(groenafb21, 430, 195);
+      image(groenafb22, 470, 195);
+      image(groenafb23, 510, 195);
+      image(groenafb24, 550, 195);
+      image(groenafb25, 590, 195);
+      
+       image(groenafb22, 430, 235);
+      image(groenafb27, 470, 235);
+      image(groenafb28, 510, 235);
+      image(groenafb29, 550, 235);
+      image(groenafb30, 590, 235);
+          
+    //--------------NIEUWE RIJ
+    
+    image(roodafb31, 230, 275);
+      image(roodafb32, 270, 275);
+      image(roodafb33, 310, 275);
+      image(roodafb34, 350, 275);
+      image(roodafb35, 390, 275);
+    
+      image(roodafb36, 230, 315);
+      image(roodafb37, 270, 315);
+      image(roodafb38, 310, 315);
+      image(roodafb39, 350, 315);
+      image(roodafb40, 390, 315);
+      
+      image(roodafb41, 230, 355);
+      image(roodafb42, 270, 355);
+      image(roodafb43, 310, 355);
+      image(roodafb44, 350, 355);
+      image(roodafb45, 390, 355);
+      
+       image(groenafb31, 430, 275);
+      image(groenafb32, 470, 275);
+      image(groenafb33, 510, 275);
+      image(groenafb34, 550, 275);
+      image(groenafb35, 590, 275);
+      
+       image(groenafb36, 430, 315);
+      image(groenafb37, 470, 315);
+      image(groenafb38, 510, 315);
+      image(groenafb39, 550, 315);
+      image(groenafb40, 590, 315);
+      
+      image(groenafb41, 430, 355);
+      image(groenafb42, 470, 355);
+      image(groenafb43, 510, 355);
+      image(groenafb44, 550, 355);
+      image(groenafb45, 590, 355);
+      
+       image(groenafb46, 470, 355);
+      image(groenafb47, 510, 355);
+      image(groenafb48, 550, 355);
+      image(groenafb49, 590, 355);
+      
+         image(geelafb31, 30, 275);
+      image(geelafb32, 70, 275);
+      image(geelafb33, 110, 275);
+      image(geelafb34, 150, 275);
+      image(geelafb35, 190, 275);
+      
+      image(geelafb36, 30, 315);
+      image(geelafb37, 70, 315);
+      image(geelafb38, 110, 315);
+      image(geelafb39, 150, 315);
+      image(geelafb40, 190, 315);
+      
+       image(geelafb41, 30, 355);
+      image(geelafb42, 70, 355);
+      image(geelafb43, 110, 355);
+      image(geelafb44, 150, 355);
+      image(geelafb45, 190, 355);
+      
+       image(geelafb46, 30, 395);
+      image(geelafb47, 70, 395);
+      image(geelafb48, 110, 395);
+      image(geelafb49, 150, 395);
+      image(geelafb50, 190, 395);
+      
+        image(geelafb51, 30, 435);
+      image(geelafb52, 70, 435);
+      
+      ///NIEUWE RIJ
+      
+          image(geelafb53, 30, 475);
+      image(geelafb54, 70, 475);
+      image(geelafb55, 110, 475);
+      image(geelafb56, 150, 475);
+      image(geelafb57, 190, 475);
+      
+      image(geelafb58, 30, 515);
+      image(geelafb59, 70, 515);
+      image(geelafb60, 110, 515);
+      image(geelafb61, 150, 515);
+      image(geelafb62, 190, 515);
+      
+        image(geelafb63, 30, 555);
+      image(geelafb64, 70, 555);
+      image(geelafb65, 110, 555);
+      image(geelafb66, 150, 555);
+      image(geelafb67, 190, 555);
+      
+      image(geelafb68, 30, 595);
+      image(geelafb69, 70, 595);
+      image(geelafb70, 110, 595);
+      image(geelafb71, 150, 595);
+      image(geelafb72, 190, 595);
+      
+      image(geelafb73, 30, 635);
+      image(geelafb74, 70, 635);
+      image(geelafb75, 110, 635);
+      image(geelafb76, 150, 635);
+      image(geelafb77, 190, 635);
+      
+      image(geelafb78, 30, 675);
+      image(geelafb79, 70, 675);
+      image(geelafb80, 110, 675);
+      image(geelafb81, 150, 675);
+      image(geelafb82, 190, 675);
+      
+      image(geelafb83, 30, 715);
+      image(geelafb84, 70, 715);
+      image(geelafb85, 110, 715);
+      image(geelafb86, 150, 715);
+      image(geelafb87, 190, 715);
+      
+ image(roodafb47, 230, 475);
+ image(roodafb48, 270, 475);
+ image(roodafb49, 310, 475);
+ image(roodafb50, 350, 475);
+ image(roodafb51, 390, 475);
+ 
+  image(roodafb52, 230, 515);
+ image(roodafb53, 270, 515);
+ image(roodafb54, 310, 515);
+ image(roodafb55, 350, 515);
+ image(roodafb56, 390, 515);
+ 
+  image(roodafb57, 230, 555);
+ image(roodafb58, 270, 555);
+ image(roodafb59, 310, 555);
+ image(roodafb60, 350, 555);
+ image(roodafb61, 390, 555);
+    
+ image(roodafb62, 230, 595);
+ image(roodafb63, 270, 595);
+ image(roodafb64, 310, 595);
+ image(roodafb65, 350, 595);
+ image(roodafb66, 390, 595);
+ 
+ image(roodafb67, 230, 635);
+ image(roodafb68, 270, 635);
+ image(roodafb69, 310, 635);
+ image(roodafb70, 350, 635);
+ image(roodafb71, 390, 635);
+    
+ image(roodafb72, 230, 675);
+ image(roodafb73, 270, 675);
+ image(roodafb74, 310, 675);
+ image(roodafb75, 350, 675);
+ image(roodafb76, 390, 675);
+    
+ image(roodafb77, 230, 715);
+ image(roodafb78, 270, 715);
+ image(roodafb79, 310, 715);
+ image(roodafb80, 350, 715);
+ image(roodafb81, 390, 715);
+ 
+  image(groenafb50, 430, 475);
+ image(groenafb51, 470, 475);
+ image(groenafb52, 510, 475);
+ image(groenafb53, 550, 475);
+ image(groenafb54, 590, 475);
+ 
+ //  
+ 
+  image(groenafb55, 430, 515);
+ image(groenafb56, 470, 515);
+ image(groenafb57, 510, 515);
+ image(groenafb58, 550, 515);
+ image(groenafb59, 590, 515);
+ 
+  image(groenafb60, 430, 555);
+ image(groenafb61, 470, 555);
+ image(groenafb62, 510, 555);
+ image(groenafb63, 550, 555);
+ image(groenafb64, 590, 555);
+ 
+  image(groenafb65, 430, 595);
+ image(groenafb66, 470, 595);
+ image(groenafb67, 510, 595);
+ image(groenafb68, 550, 595);
+ image(groenafb69, 590, 595);
+ 
+  image(groenafb70, 430, 635);
+ image(groenafb71, 470, 635);
+ image(groenafb72, 510, 635);
+ image(groenafb73, 550, 635);
+ image(groenafb74, 590, 635);
+ 
+  image(groenafb75, 430, 675);
+ image(groenafb76, 470, 675);
+ image(groenafb77, 510, 675);
+ image(groenafb78, 550, 675);
+ image(groenafb79, 590, 675);
+ 
+  image(groenafb80, 430, 715);
+ image(groenafb81, 470, 715);
+ image(groenafb82, 510, 715);
+ image(groenafb83, 550, 715);
+ image(groenafb84, 590, 715);
+
+}
+
